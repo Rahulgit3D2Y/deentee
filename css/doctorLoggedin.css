@@ -1,0 +1,40 @@
+li>a>img,li>div>a>img{
+    height: 50px;
+}
+main
+{
+    padding: 20px;
+    min-height: 80vh;
+    background-image: url('/assets/img/doctorLoggedin/undraw_medicine_b-1-ol.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+}
+main>div>div{
+    width: 270px;
+    -webkit-box-shadow: 1px 3px 15px -3.5px #282fe9;
+    -moz-box-shadow: 1px 3px 15px -3.5px #282fe9;
+    box-shadow: 1px 3px 15px -3.5px #282fe9;
+}
+main>div>div:nth-child(2)
+{
+    -webkit-box-shadow: 1px 3px 15px -3.5px #42e827;
+-moz-box-shadow: 1px 3px 15px -3.5px #42e827;
+box-shadow: 1px 3px 15px -3.5px #42e827;
+}
+main>div>div:nth-child(3)
+{
+    -webkit-box-shadow: 1px 3px 15px -3.5px #e8a227;
+-moz-box-shadow: 1px 3px 15px -3.5px #e8a227;
+box-shadow: 1px 3px 15px -3.5px #e8a227;
+}
+main>div>div:nth-child(4)
+{
+    -webkit-box-shadow: 1px 3px 15px -3.5px #e82727;
+-moz-box-shadow: 1px 3px 15px -3.5px #e82727;
+box-shadow: 1px 3px 15px -3.5px #e82727;
+}
+.mddimg{
+    height: 100px;
+}
